@@ -1,0 +1,88 @@
+body {
+	/*background:black;*/
+/*	background: #293445;*/
+	background: #f2f2ed;
+	font-family: Work Sans, Helvetica, sans-serif;
+}
+
+
+#container1 {
+ width:40%;
+ float:left;
+ color: #2e51a7;
+}
+
+#question {
+	
+/*	color: #2f3c50;*/
+	color: #2e51a7;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	text-align: left;
+	letter-spacing:2px;
+	font-size:106px;
+	line-height:1;
+	padding-left:30px;
+	padding-top:30px;
+	padding-right:15px;
+}
+
+#copy {
+	padding-left:30px;
+	padding-top:50px;
+	font-weight: 500;
+	font-size:12px;
+/*	opacity:50%;*/
+	width:400px;
+	line-height:1.5em;
+}
+
+#container2 {
+  width:56%;
+  color:white;
+  display:inline-block;
+  float:right;
+  height:100%;
+
+
+}
+
+#call {
+	padding-right:30px;
+	padding-top:30px;
+	
+/*	font:Georgia;*/
+/*	color: white;*/
+/*	background: #d3493a;*/
+	text-transform:uppercase;
+	text-align: left;
+	font-weight:900;
+	letter-spacing:1px;
+	font-size: 48px;
+}
+
+
+.white {
+	color:white;
+}
+
+.red {
+	color: #e74b39;
+}
+
+a:link {
+	/*color: white;*/
+	color: #2e51a7;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #e74b39;
+	text-decoration: underline;
+}
+
+a:hover {
+	background:#e74b39;
+	text-decoration: none;
+	color: white;
+}
