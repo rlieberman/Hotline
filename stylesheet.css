@@ -7,7 +7,7 @@ body {
 
 
 #container1 {
- width:40%;
+ width:38%;
  float:left;
  color: #2e51a7;
 }
@@ -16,12 +16,13 @@ body {
 	
 /*	color: #2f3c50;*/
 	color: #2e51a7;
-	font-family: 'Lora', serif;
-	font-weight: 700;
+/*	font-family: 'Lora', serif;*/
+	font-weight: 900;
+	text-transform:uppercase;
 	text-align: left;
 	letter-spacing:2px;
 	font-size:106px;
-	line-height:1;
+	line-height:.8;
 	padding-left:30px;
 	padding-top:30px;
 	padding-right:15px;
@@ -31,11 +32,12 @@ body {
 	padding-left:30px;
 	padding-top:50px;
 	font-weight: 500;
-	font-size:15px;
+	font-size:12px;
 /*	opacity:50%;*/
-	width:400px;
+	width:380px;
 	line-height:1.5em;
 }
+
 
 #container2 {
   width:56%;
