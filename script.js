@@ -2,7 +2,6 @@
 var questions = [
   "How are you feeling right now?",
   "Do you need to talk?",
-  "What just happened?",
   "Do you need to talk about the election?",
   "Do you have something to say?",
   "Do you want to share how you're feeling?",
